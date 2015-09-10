@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+If we want our newly created files to be tracked in future with different versions, so that we can retrieve previous versions if some files 
+deleted or corrupted.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
