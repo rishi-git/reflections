@@ -1,0 +1,10 @@
+How version control works?
+
+How can multiple users copmare, update & store on same file?
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Manually choosing when to create a commit can sometimes lead  to early or late commit the change which will effect when we compare 2 versions in future
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+When we save files on Goole docs it stores & treates it like a seperate enitity. But on Git, it allows all the files as one enitity though all the files from that enitity haven't changed.
+So that we can retrive all the changes done in a particular commit
